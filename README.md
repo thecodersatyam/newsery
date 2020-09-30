@@ -42,13 +42,13 @@
     <tr>
       <td>NicMan</td>
       <td>???</td>
-      <td></td>
+      <td><a href="https://www.github.com/nicman37">github.com/nicman37</a></td>
       <td></td>
     </tr>
     <tr>
       <td>Davtur</td>
       <td>???</td>
-      <td></td>
+      <td><a href="https://www.github.com/davtur19">github.com/davtur19</a></td>
       <td></td>
     </tr>
   </tbody>
