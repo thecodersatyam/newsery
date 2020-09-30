@@ -37,11 +37,11 @@
             if(stristr($row, '*.*') || stristr($row, $param['name'].'.*')){
 
                 if(!stristr($row, 'SELECT')){
-                    //no select priv
+                    // no select priv
                     $flag = false;
                 }
                 if(!stristr($row, 'INSERT')){
-                    //no insert priv
+                    // no insert priv
                     $flag = false;
                 }
                 if(!stristr($row, 'UPDATE')){
@@ -49,19 +49,19 @@
                     $flag = false;
                 }
                 if(!stristr($row, 'DELETE')){
-                    //no insert priv
+                    // no delete priv
                     $flag = false;
                 }
                 if(!stristr($row, 'CREATE')){
-                    //no insert priv
+                    // no create priv
                     $flag = false;
                 }
                 if(!stristr($row, 'ALTER')){
-                    //no insert priv
+                    // no alter priv
                     $flag = false;
                 }
                 if(!stristr($row, 'DROP')){
-                    //no insert priv
+                    // no drop priv
                     $flag = false;
                 }
 
