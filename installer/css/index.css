@@ -1,0 +1,59 @@
+.installation_slide {
+    background: #fff; 
+    border-radius: 2vh 0px 2vh 0px; 
+    margin-top: 20vh; 
+    box-shadow: 1vh 1vh rgb(0, 0, 0);
+}
+
+h1 {
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    padding-top: 1vh;
+    color: #000;
+    font-style: bold;
+}
+
+p {
+    text-align: justify;
+    font-family: 'Roboto', sans-serif;
+}
+
+.btn {
+    width: 50vh;
+    margin-left: 25vh;
+    margin-bottom: 5vh;
+}
+
+#first_slide {
+    display: block;
+}
+
+#username_db {
+    font-size: 2vh;
+    vertical-align: middle;
+    text-align: right;
+}
+
+input[type="text"], input[type="password"]{
+    width: 100%;
+}
+
+.col-sm {
+    max-width: 40vh;
+}
+
+#error_alert {
+    display: none;
+}
+
+#warning_alert {
+    display: none;
+}
+
+#alert_space {
+    padding-bottom: 4vh;
+}
+
+.row {
+    padding-bottom: 2vh;
+}
