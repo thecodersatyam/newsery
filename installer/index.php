@@ -130,6 +130,26 @@
             </div>
         </div>
 
+        <!-- Installation Progressbar -->
+        <div class="container installation_slide" id="fifth_slide">
+            <div class="container">
+                <h1><?php print $it['title_step_5']; ?></h1>
+            </div>
+            <hr>
+            <div class="container">
+                <div class="alert alert-info" role="alert">
+                    <p><?php print $it['content_step_5']; ?></p>
+                </div>
+            </div>
+            <div class="container progress_area">
+                <div class="progress">
+                    <div class="progress-bar progress-bar-striped progress-bar-animated bg-danger" role="progressbar" style="width: 33%" aria-valuenow="15" aria-valuemin="0" aria-valuemax="100">33%</div>
+                    <div class="progress-bar progress-bar-striped progress-bar-animated bg-warning" role="progressbar" style="width: 0%" aria-valuenow="30" aria-valuemin="0" aria-valuemax="100">0%</div>
+                    <div class="progress-bar progress-bar-striped progress-bar-animated bg-success" role="progressbar" style="width: 0%" aria-valuenow="20" aria-valuemin="0" aria-valuemax="100">0%</div>
+                </div>
+            </div>
+        </div>
+
         <!-- Javascript -->
         <script src="js/jquery-3.5.1.min.js"></script>
         <script src="js/popper.js"></script>

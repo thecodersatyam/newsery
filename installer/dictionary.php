@@ -4,6 +4,7 @@
         "title" => "Installazione di Newsery",
         "title_step_1" => "Panoramica",
         "title_step_2" => "Installazione del Database",
+        "title_step_5" => "Installazione di Newsery",
         "content_step_1" => "Benvenuto/a nel programma di installazione di newsery.<br>
                             Questo programma è pensato per <b><u>AUTODISTRUGGERSI</u></b> dopo il completamento per motivi di sicurezza, quindi, non dovrai fare nulla se non completare questo wizard.
                             In questo programma ti verrano chieste informazioni <b><u>CONFIDENZIALI</b></u> da non divulgare a nessuna persona non autorizzata a cancellare il sito web.<br>
@@ -15,6 +16,7 @@
                                 <li>Alcuni settaggi opzionali</li>
                             </ul>
                             Appena hai tutto sotto mano clicca il pulsante avanti. Se, invece, non sai il significato di alcune parole sopra riportate conttata il servizio clienti del tuo host e chiedili aiuto.",
+        "content_step_5" => "Creazione delle tabelle in corso. Attendere prego.....",
         "next" => "Avanti",
         "username" => "Nome utente:",
         "password" => "Chiave di accesso:",

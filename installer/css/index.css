@@ -57,3 +57,11 @@ input[type="text"], input[type="password"]{
 .row {
     padding-bottom: 2vh;
 }
+
+.progress_area {
+    padding-bottom: 2vh;
+}
+
+#fifth_slide {
+    margin-bottom: 2vh;
+}
