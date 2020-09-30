@@ -24,7 +24,30 @@
 <table style="border: 0px">
   <thead>
     <td>
-      Nick Name
+      Nickname
+    </td>
+    <td>
+      Realname
+    </td>
+    <td>
+      Profile
     </td>
   </thead>
+  <tbody>
+    <tr>
+      <td>Pinnaker00</td>
+      <td>Davide Forti</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>NicMan</td>
+      <td>???</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Davtur</td>
+      <td>???</td>
+      <td></td>
+    </tr>
+  </tbody>
 </table>
