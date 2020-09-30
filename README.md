@@ -36,7 +36,7 @@
     <tr>
       <td>Pinnaker00</td>
       <td>Davide Forti</td>
-      <td></td>
+      <td><a href="https://www.github.com/forti-davide">github.com/forti-davide</a></td>
       <td><a href="https://www.twitch.tv/pinnaker00">twitch.tv/pinnaker00</a></td>
     </tr>
     <tr>
