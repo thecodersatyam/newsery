@@ -24,8 +24,6 @@
         "setup_db" => "Configura il database",
         "db_connection_testing" => "Tentativo di connessione alla base di dati in corso.",
         "db_connection_error" => "Tentativo di connesione alla base di dati fallito: <b>verificare credenziali e pemessi</b>.",
-        "db_query_error" => "Errore nel comando per la base di dati: <b>contattare un'amministratore di rete</b>.",
-        "db_invalid_perm" => "Errore, permessi insufficenti. Leggere in fondo alla pagina per informazioni sui permessi richiesti."
     );
 
     $en = array(

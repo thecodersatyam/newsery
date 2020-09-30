@@ -53,7 +53,7 @@
             <hr>
             <div class="container" id="alert_space">
                 <div class="alert alert-danger" role="alert" id="error_alert">
-                    
+                    <?php print $it['db_connection_error']; ?>
                 </div>
                 <div class="alert alert-warning" role="alert" id="warning_alert">
                     <?php print $it['db_connection_testing']; ?>
