@@ -20,3 +20,11 @@
 <ul>
   <li>Pinnaker00: <a href="https://www.twitch.tv/pinnaker00">twitch.tv/pinnaker00</a></li>
 </ul>
+<h2>Contributions</h2>
+<table style="border: 0px">
+  <thead>
+    <td>
+      Nick Name
+    </td>
+  </thead>
+</table>
