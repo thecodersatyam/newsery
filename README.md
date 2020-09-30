@@ -16,10 +16,6 @@
 <p>The first rule can only be avoided if the request deals with an open bug in the issue section or a bug that compromises security.</p>
 <h2>Community</h2>
 <p>If you are interested in chatting with other developers or just to see what is being discussed you can come to our discord (there is even the radiobot): link here</p>
-<p>If you want to follow the live programming, here is a list of streamers who collaborate on the project:</p>
-<ul>
-  <li>Pinnaker00: <a href="https://www.twitch.tv/pinnaker00">twitch.tv/pinnaker00</a></li>
-</ul>
 <h2>Contributions</h2>
 <table style="border: 0px">
   <thead>
@@ -32,21 +28,27 @@
     <td>
       Profile
     </td>
+    <td>
+      Twitch
+    </td>
   </thead>
   <tbody>
     <tr>
       <td>Pinnaker00</td>
       <td>Davide Forti</td>
       <td></td>
+      <td><a href="https://www.twitch.tv/pinnaker00">twitch.tv/pinnaker00</a></td>
     </tr>
     <tr>
       <td>NicMan</td>
       <td>???</td>
       <td></td>
+      <td></td>
     </tr>
     <tr>
       <td>Davtur</td>
       <td>???</td>
+      <td></td>
       <td></td>
     </tr>
   </tbody>
